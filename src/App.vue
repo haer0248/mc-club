@@ -1,7 +1,7 @@
 <script setup>
-import Rules from './Components/Rules.vue'
-import Comment from './Components/Comment.vue'
-import Other from './Components/Other.vue'
+import Rules from './components/Rules.vue'
+import Comment from './components/Comment.vue'
+import Other from './components/Other.vue'
 </script>
 
 <template>
