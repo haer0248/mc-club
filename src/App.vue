@@ -97,7 +97,7 @@ a:hover {
 }
 
 #header {
-    background-image: url('assets/header.jpg');
+    background-image: url('/header.jpg');
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
