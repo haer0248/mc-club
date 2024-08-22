@@ -85,7 +85,7 @@
         <li>直播定義為非 Minecraft 直播。</li>
     </ul>
 
-    <p class="title h4 mb-1">18 其他</p>
+    <p class="title h4 mb-1">其他</p>
     <ul>
         <li>禁止任何跟風文出現。</li>
     </ul>
